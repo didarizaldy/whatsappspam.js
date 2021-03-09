@@ -12,7 +12,9 @@ Javascript to spamming chat with single word
 Run the remove background
 
 ```bash
-> running this javascript
+> let satukataenter = 'text'
+> satukataenter(text);
+> spam('text', angka)
 ```
 
 ## Features
