@@ -9,7 +9,7 @@ Javascript to spamming chat with single word
 ```
 
 ### Usage
-Run the remove background
+Open whatsapp-web then open console, copy and paste spam.js to console then...
 
 ```bash
 > let satukataenter = 'text'
