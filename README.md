@@ -5,7 +5,7 @@ Javascript to spamming chat with single word
 ### Install
 
 ```bash
-> git clone https://github.com/didarizaldy/removebg-online
+> git clone https://github.com/didarizaldy/whatsappspam.js/ spamwhatsapp
 ```
 
 ### Usage
